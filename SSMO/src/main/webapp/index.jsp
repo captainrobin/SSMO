@@ -5,13 +5,14 @@
 <html>
 <head>
   <title>主页</title>
+  <link type="text/css" rel="stylesheet" href="${ctx }/css/index.css"></link>
   <script type="text/javascript" src="${ctx }/js/jquery-3.2.1.min.js"></script>
 </head>
 
-<body>
+<body class="body_index">
 	<div>
 		<div>
-			<div>
+			<div class="window_login">
 				<p>
 					用户名：<input type="text" id="username"/>
 				</p>
@@ -47,6 +48,7 @@
 				var status = data.massage;
 				if(status == 0){
 					alert("账号验证通过！正在为您跳转...");
+					
 				}
 				if(status == 1){
 					alert("账号或密码为空！");
