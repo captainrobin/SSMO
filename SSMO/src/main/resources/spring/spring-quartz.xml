@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:util="http://www.springframework.org/schema/util" xmlns:mvc="http://www.springframework.org/schema/mvc"
+	xsi:schemaLocation="
+  http://www.springframework.org/schema/beans
+  http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+  http://www.springframework.org/schema/util
+  http://www.springframework.org/schema/util/spring-util-4.0.xsd
+  http://www.springframework.org/schema/context 
+  http://www.springframework.org/schema/context/spring-context-4.0.xsd
+  http://www.springframework.org/schema/mvc
+  http://www.springframework.org/schema/mvc/spring-mvc-4.0.xsd">
+  
+  <!-- 定义目标bean和bean中的方法 -->
+	<bean id="MessageQuartzJob" class="com.ssmo.controller.jpush.MessageQuartz" />
+	<bean id="MessageQuartzJobMethod"
+		class="org.springframework.scheduling.quartz.MethodInvokingJobDetailFactoryBean">
+		<property name="targetObject">
+			<ref bean="MessageQuartzJob" />
+		</property>
+		<property name="targetMethod"><!-- 要执行的方法名称-->
+			<value>execute</value>
+		</property>
+	</bean>
+
+	<!--  调度触发器  -->
+	 <bean id="MessageQuartzBean" class="org.springframework.scheduling.quartz.CronTriggerFactoryBean">
+		<property name="jobDetail" ref="MessageQuartzJobMethod"></property>
+		<property name="cronExpression" value="10,40 * * * * ?"></property>
+		<!-- <property name="cronExpression" value="30 35 13 * * ?"></property> -->
+	</bean>
+
+	<!-- 调度工厂 -->
+	<bean id="MessageQuartzSchedulerFactory"
+		class="org.springframework.scheduling.quartz.SchedulerFactoryBean">
+		<property name="triggers">
+			<list>
+				<ref bean="MessageQuartzBean" />
+			</list>
+		</property>
+	</bean>
+  
+  
+  </beans>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:util="http://www.springframework.org/schema/util" xmlns:mvc="http://www.springframework.org/schema/mvc"
+	xsi:schemaLocation="
+  http://www.springframework.org/schema/beans
+  http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+  http://www.springframework.org/schema/util
+  http://www.springframework.org/schema/util/spring-util-4.0.xsd
+  http://www.springframework.org/schema/context 
+  http://www.springframework.org/schema/context/spring-context-4.0.xsd
+  http://www.springframework.org/schema/mvc
+  http://www.springframework.org/schema/mvc/spring-mvc-4.0.xsd">
+
+
+	<context:component-scan base-package="com.ssmo.controller"></context:component-scan>
+
+	<mvc:default-servlet-handler />
+
+	<mvc:annotation-driven />
+
+	<bean
+		class="org.springframework.web.servlet.view.InternalResourceViewResolver"
+		id="internalResourceViewResolver">
+		<property name="prefix" value="/WEB-INF/jsp/" />
+		<property name="suffix" value=".jsp" />
+	</bean>
+
+	<!-- 配置拦截器 -->
+	<!-- <mvc:interceptors>
+		配置登陆拦截器
+		<mvc:interceptor>
+			拦截后台页面的请求
+			<mvc:mapping path="/**/**" />
+			不拦截登录页和登录的请求
+			<mvc:exclude-mapping path="/user/toRegister.html"/>
+			<mvc:exclude-mapping path="/user/login.do"/>
+			<bean class="com.ssmo.controller.tool.LoginInterceptor"></bean>
+		</mvc:interceptor>
+	</mvc:interceptors> -->
+
+	<!-- spring系统启动以后，执行该类 -->
+	<bean class="com.ssmo.controller.tool.InitDataListener"></bean>
+
+</beans>
