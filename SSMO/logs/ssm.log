@@ -1,0 +1,183 @@
+[INFO] [2017-09-20 12:53:52][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 12:53:53][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 12:53:53][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 12:53:53][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [WARN] [2017-09-20 12:53:53][cn.jiguang.common.connection.NativeHttpClient]Got error response - responseCode:401, responseContent:{"msg_id": 2124022174, "error": {"message": "app_key does not exist", "code": 1004}}
+  [ERROR] [2017-09-20 12:53:53][cn.jiguang.common.connection.NativeHttpClient]Authentication failed! Please check authentication params according to docs.
+  [INFO] [2017-09-20 13:52:27][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 13:52:27][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 13:52:27][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 13:52:27][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [WARN] [2017-09-20 13:52:27][cn.jpush.api.push.model.notification.PlatformNotification]Null extras param. Throw away it.
+  [WARN] [2017-09-20 13:52:27][cn.jiguang.common.connection.NativeHttpClient]Got error response - responseCode:401, responseContent:{"msg_id": 1336077866, "error": {"message": "app_key does not exist", "code": 1004}}
+  [ERROR] [2017-09-20 13:52:27][cn.jiguang.common.connection.NativeHttpClient]Authentication failed! Please check authentication params according to docs.
+  [INFO] [2017-09-20 13:58:38][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 13:58:38][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 13:58:38][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 13:58:38][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [WARN] [2017-09-20 13:58:38][cn.jpush.api.push.model.notification.PlatformNotification]Null extras param. Throw away it.
+  [WARN] [2017-09-20 13:58:38][cn.jiguang.common.connection.NativeHttpClient]Got error response - responseCode:401, responseContent:{"msg_id": 2676420980, "error": {"message": "app_key does not exist", "code": 1004}}
+  [ERROR] [2017-09-20 13:58:38][cn.jiguang.common.connection.NativeHttpClient]Authentication failed! Please check authentication params according to docs.
+  [INFO] [2017-09-20 13:59:15][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 13:59:15][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 13:59:15][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 13:59:15][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [WARN] [2017-09-20 13:59:15][cn.jpush.api.push.model.notification.PlatformNotification]Null extras param. Throw away it.
+  [WARN] [2017-09-20 13:59:15][cn.jiguang.common.connection.NativeHttpClient]Got error response - responseCode:401, responseContent:{"msg_id": 2946568871, "error": {"message": "app_key does not exist", "code": 1004}}
+  [ERROR] [2017-09-20 13:59:15][cn.jiguang.common.connection.NativeHttpClient]Authentication failed! Please check authentication params according to docs.
+  [INFO] [2017-09-20 14:10:12][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 14:10:12][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 14:10:12][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 14:10:12][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [WARN] [2017-09-20 14:10:12][cn.jpush.api.push.model.notification.PlatformNotification]Null extras param. Throw away it.
+  [WARN] [2017-09-20 14:10:13][cn.jiguang.common.connection.NativeHttpClient]Got error response - responseCode:401, responseContent:{"msg_id": 2934913366, "error": {"message": "app_key does not exist", "code": 1004}}
+  [ERROR] [2017-09-20 14:10:13][cn.jiguang.common.connection.NativeHttpClient]Authentication failed! Please check authentication params according to docs.
+  [INFO] [2017-09-20 14:14:49][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 14:14:49][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 14:14:49][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 14:14:49][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [WARN] [2017-09-20 14:14:49][cn.jpush.api.push.model.notification.PlatformNotification]Null extras param. Throw away it.
+  [WARN] [2017-09-20 14:14:49][cn.jiguang.common.connection.NativeHttpClient]Got error response - responseCode:401, responseContent:{"msg_id": 669550915, "error": {"message": "app_key does not exist", "code": 1004}}
+  [ERROR] [2017-09-20 14:14:49][cn.jiguang.common.connection.NativeHttpClient]Authentication failed! Please check authentication params according to docs.
+  [INFO] [2017-09-20 14:28:36][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 14:28:36][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 14:28:36][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 14:28:36][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [WARN] [2017-09-20 14:28:36][cn.jpush.api.push.model.notification.PlatformNotification]Null extras param. Throw away it.
+  [WARN] [2017-09-20 14:28:36][cn.jiguang.common.connection.NativeHttpClient]Got error response - responseCode:401, responseContent:{"msg_id": 2123675506, "error": {"message": "app_key does not exist", "code": 1004}}
+  [ERROR] [2017-09-20 14:28:36][cn.jiguang.common.connection.NativeHttpClient]Authentication failed! Please check authentication params according to docs.
+  [INFO] [2017-09-20 14:40:29][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 14:40:29][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 14:40:29][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 14:40:29][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [WARN] [2017-09-20 14:40:29][cn.jiguang.common.connection.NativeHttpClient]Got error response - responseCode:401, responseContent:{"msg_id": 2675696103, "error": {"message": "app_key does not exist", "code": 1004}}
+  [ERROR] [2017-09-20 14:40:29][cn.jiguang.common.connection.NativeHttpClient]Authentication failed! Please check authentication params according to docs.
+  [INFO] [2017-09-20 14:41:50][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 14:41:50][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 14:41:50][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 14:41:50][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [WARN] [2017-09-20 14:41:51][cn.jiguang.common.connection.NativeHttpClient]Got error response - responseCode:401, responseContent:{"msg_id": 382564204, "error": {"message": "app_key does not exist", "code": 1004}}
+  [ERROR] [2017-09-20 14:41:51][cn.jiguang.common.connection.NativeHttpClient]Authentication failed! Please check authentication params according to docs.
+  [INFO] [2017-09-20 14:44:27][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 14:44:27][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 14:44:27][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 14:44:27][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [WARN] [2017-09-20 14:44:28][cn.jiguang.common.connection.NativeHttpClient]Got error response - responseCode:401, responseContent:{"msg_id": 2120290168, "error": {"message": "app_key does not exist", "code": 1004}}
+  [ERROR] [2017-09-20 14:44:28][cn.jiguang.common.connection.NativeHttpClient]Authentication failed! Please check authentication params according to docs.
+  [INFO] [2017-09-20 14:56:01][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 14:56:01][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 14:56:01][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 14:56:01][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [WARN] [2017-09-20 14:56:02][cn.jiguang.common.connection.NativeHttpClient]Got error response - responseCode:401, responseContent:{"msg_id": 1330087700, "error": {"message": "app_key does not exist", "code": 1004}}
+  [ERROR] [2017-09-20 14:56:02][cn.jiguang.common.connection.NativeHttpClient]Authentication failed! Please check authentication params according to docs.
+  [INFO] [2017-09-20 15:27:43][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:27:43][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:27:43][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:27:43][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [WARN] [2017-09-20 15:27:43][cn.jiguang.common.connection.NativeHttpClient]Got error response - responseCode:401, responseContent:{"msg_id": 2125036323, "error": {"message": "app_key does not exist", "code": 1004}}
+  [ERROR] [2017-09-20 15:27:43][cn.jiguang.common.connection.NativeHttpClient]Authentication failed! Please check authentication params according to docs.
+  [INFO] [2017-09-20 15:29:59][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:29:59][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:29:59][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:29:59][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [WARN] [2017-09-20 15:30:00][cn.jiguang.common.connection.NativeHttpClient]Got error response - responseCode:401, responseContent:{"msg_id": 3423732547, "error": {"message": "app_key does not exist", "code": 1004}}
+  [ERROR] [2017-09-20 15:30:00][cn.jiguang.common.connection.NativeHttpClient]Authentication failed! Please check authentication params according to docs.
+  [INFO] [2017-09-20 15:38:45][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:38:45][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:38:45][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:38:45][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [WARN] [2017-09-20 15:38:46][cn.jiguang.common.connection.NativeHttpClient]Got error response - responseCode:401, responseContent:{"msg_id": 4278762499, "error": {"message": "app_key does not exist", "code": 1004}}
+  [ERROR] [2017-09-20 15:38:46][cn.jiguang.common.connection.NativeHttpClient]Authentication failed! Please check authentication params according to docs.
+  [INFO] [2017-09-20 15:39:44][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:39:44][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:39:44][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:39:44][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [WARN] [2017-09-20 15:39:45][cn.jiguang.common.connection.NativeHttpClient]Got error response - responseCode:401, responseContent:{"msg_id": 2946212102, "error": {"message": "app_key does not exist", "code": 1004}}
+  [ERROR] [2017-09-20 15:39:45][cn.jiguang.common.connection.NativeHttpClient]Authentication failed! Please check authentication params according to docs.
+  [INFO] [2017-09-20 15:40:00][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:40:00][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:40:00][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:40:00][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [WARN] [2017-09-20 15:40:01][cn.jiguang.common.connection.NativeHttpClient]Got error response - responseCode:401, responseContent:{"msg_id": 3425343299, "error": {"message": "app_key does not exist", "code": 1004}}
+  [ERROR] [2017-09-20 15:40:01][cn.jiguang.common.connection.NativeHttpClient]Authentication failed! Please check authentication params according to docs.
+  [INFO] [2017-09-20 15:42:15][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:42:15][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:42:15][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:42:15][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [WARN] [2017-09-20 15:42:15][cn.jiguang.common.connection.NativeHttpClient]Got error response - responseCode:401, responseContent:{"msg_id": 2126813128, "error": {"message": "app_key does not exist", "code": 1004}}
+  [ERROR] [2017-09-20 15:42:15][cn.jiguang.common.connection.NativeHttpClient]Authentication failed! Please check authentication params according to docs.
+  [INFO] [2017-09-20 15:48:59][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:48:59][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:48:59][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:48:59][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [WARN] [2017-09-20 15:49:00][cn.jiguang.common.connection.NativeHttpClient]Got error response - responseCode:401, responseContent:{"msg_id": 4263249229, "error": {"message": "app_key does not exist", "code": 1004}}
+  [ERROR] [2017-09-20 15:49:00][cn.jiguang.common.connection.NativeHttpClient]Authentication failed! Please check authentication params according to docs.
+  [INFO] [2017-09-20 15:49:09][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:49:09][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:49:09][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:49:09][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [WARN] [2017-09-20 15:49:09][cn.jiguang.common.connection.NativeHttpClient]Got error response - responseCode:401, responseContent:{"msg_id": 3425343335, "error": {"message": "app_key does not exist", "code": 1004}}
+  [ERROR] [2017-09-20 15:49:09][cn.jiguang.common.connection.NativeHttpClient]Authentication failed! Please check authentication params according to docs.
+  [INFO] [2017-09-20 15:51:27][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:51:27][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:51:27][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 15:51:27][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [WARN] [2017-09-20 15:51:28][cn.jiguang.common.connection.NativeHttpClient]Got error response - responseCode:401, responseContent:{"msg_id": 2666528754, "error": {"message": "app_key does not exist", "code": 1004}}
+  [ERROR] [2017-09-20 15:51:28][cn.jiguang.common.connection.NativeHttpClient]Authentication failed! Please check authentication params according to docs.
+  [INFO] [2017-09-20 16:03:50][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:03:50][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:03:50][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:03:50][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [WARN] [2017-09-20 16:03:51][cn.jiguang.common.connection.NativeHttpClient]Got error response - responseCode:401, responseContent:{"msg_id": 2675696501, "error": {"message": "app_key does not exist", "code": 1004}}
+  [ERROR] [2017-09-20 16:03:51][cn.jiguang.common.connection.NativeHttpClient]Authentication failed! Please check authentication params according to docs.
+  [INFO] [2017-09-20 16:06:46][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:06:46][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:06:46][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:06:46][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [WARN] [2017-09-20 16:06:46][cn.jiguang.common.connection.NativeHttpClient]Got error response - responseCode:400, responseContent:{"msg_id": 2233508780, "error": {"message": "cannot find user by this audience", "code": 1011}}
+  [ERROR] [2017-09-20 16:06:46][cn.jiguang.common.connection.NativeHttpClient]Your request params is invalid. Please check them according to error message.
+  [ERROR] [2017-09-20 16:06:46][com.ssmo.controller.jpush.PushExample]Error response from JPush server. Should review and fix it. 
+  {}
+	at cn.jiguang.common.connection.NativeHttpClient._doRequest(NativeHttpClient.java:235)
+	at cn.jiguang.common.connection.NativeHttpClient.doRequest(NativeHttpClient.java:99)
+	at cn.jiguang.common.connection.NativeHttpClient.sendPost(NativeHttpClient.java:86)
+	at cn.jpush.api.push.PushClient.sendPush(PushClient.java:163)
+	at cn.jpush.api.JPushClient.sendPush(JPushClient.java:193)
+	at com.ssmo.controller.jpush.PushExample.testSendPush(PushExample.java:103)
+	at com.ssmo.controller.jpush.PushExample.main(PushExample.java:64)
+[INFO] [2017-09-20 16:06:46][com.ssmo.controller.jpush.PushExample]HTTP Status: 400
+  [INFO] [2017-09-20 16:06:46][com.ssmo.controller.jpush.PushExample]Error Code: 1011
+  [INFO] [2017-09-20 16:06:46][com.ssmo.controller.jpush.PushExample]Error Message: cannot find user by this audience
+  [INFO] [2017-09-20 16:06:46][com.ssmo.controller.jpush.PushExample]Msg ID: 2233508780
+  [ERROR] [2017-09-20 16:06:46][com.ssmo.controller.jpush.PushExample]Sendno: 1688980205
+  [INFO] [2017-09-20 16:08:05][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:08:05][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:08:05][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:08:05][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:08:05][com.ssmo.controller.jpush.PushExample]Got result - {"msg_id":1687091927,"sendno":1622940489,"statusCode":0}
+  [INFO] [2017-09-20 16:25:34][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:25:34][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:25:34][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:25:34][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:25:34][com.ssmo.controller.jpush.PushExample]Got result - {"msg_id":2769812756,"sendno":593581735,"statusCode":0}
+  [INFO] [2017-09-20 16:28:06][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:28:06][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:28:06][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:28:06][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:28:06][com.ssmo.controller.jpush.PushExample]Got result - {"msg_id":2238453856,"sendno":1823932096,"statusCode":0}
+  [INFO] [2017-09-20 16:29:43][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:29:43][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:29:43][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:29:43][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:29:44][com.ssmo.controller.jpush.PushExample]Got result - {"msg_id":1094382865,"sendno":1283220329,"statusCode":0}
+  [INFO] [2017-09-20 16:31:02][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:31:02][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:31:02][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:31:02][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:31:02][com.ssmo.controller.jpush.PushExample]Got result - {"msg_id":1743745785,"sendno":1443629972,"statusCode":0}
+  [INFO] [2017-09-20 16:41:34][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:41:34][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:41:34][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:41:34][cn.jiguang.common.connection.NativeHttpClient]Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+  [INFO] [2017-09-20 16:41:35][com.ssmo.controller.jpush.PushExample]Got result - {"msg_id":1096739879,"sendno":1468990023,"statusCode":0}
+  
